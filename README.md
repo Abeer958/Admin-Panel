@@ -14,7 +14,7 @@ Link to project deployed with netlify. Live demo [here](https://abeers-react-ad
 * Contact
 
 ## General Information
-I created this website as a Youtube replica which is a video sharing platform.
+I created this administration panel that shows user profiles, products, as well as transactions.
 
 ### Purpose of this project
 To practice web design and routing.
@@ -28,10 +28,14 @@ To practice web design and routing.
 
 ## Features
 * A Home page.
-* A video page that has comments and recommendations.
-* A sign in page.
-* A dynamic logo and sign in button.
+* A Login page.
+* A users page.
+* A user profile page.
+* A dynamic logo button.
 * A dynamic dark/light mode button.
+* A dynamic add new user button.
+* A dynamic upload image button.
+* A dynamic delete user button.
 * Used react-routing.
 
 ## Screenshot
@@ -69,27 +73,40 @@ To Visit App:
 
 ## Usage
 
-**Dynamic Sign In Button**
+**Dynamic Logo**
 
-* The sign in button will direct you to an authentication page.
+* The Logo will always direct you to the home page.
 
 **Dark/Light Mode**
 
-* The dark/light mode button will toggle between the two theme options.
+* The dark/light mode buttons in both the side bar and the navigation bar will toggle between the two theme options.
 
-**Dynamic Video Cards**
+**Dynamic Users Button**
 
-* The video cards will direct you to the video, comments, and recommendations page.
+* The users button present in the sidebar will take you to a page with a users list.
 
-**Dynamic Logo**
+**Dynamic Products Button**
 
-* The logo button will redirect you to the home page
+* The products button present in the sidebar will take you to a page with a products list, this could be confirmed by checking the URL.
+
+**Dynamic Add New User Button**
+
+* The add new user button present above the users list will allow you to add new users.
+
+**Dynamic Delete User Button**
+
+* The delete user button will delete the user's information from the users table.
+
+**Single User Profile**
+
+* By adding any ID to the URL from the users page (e.g. /users/1234) you will be directed to a single user profile.
 
 ## Project Status
 Project is: Completed
 
 ## Room for Improvement
-* Use local storage to save the users theme preferences, this will help avoid the redirection to home page when the Dark/Light button is clicked.
+* Make all buttons dynamic.
+* Add authentication page.
 
 ## Acknowledgements
 * Many thanks to LamaDev.
