@@ -14,7 +14,7 @@ Link to project deployed with netlify. Live demo [here](https://abeers-react-ad
 * Contact
 
 ## General Information
-I created this administration panel that shows user profiles, products, as well as transactions.
+I created this administration panel that shows user profiles, products, and user transactions. This project uses react-routing, react hooks such as: useContext/useState/useReducer, and SCSS.
 
 ### Purpose of this project
 To practice web design and routing.
