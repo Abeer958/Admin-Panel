@@ -27,16 +27,18 @@ To practice web design and routing.
 * Material UI
 
 ## Features
+* React-routing.
 * A Home page.
-* A Login page.
-* A users page.
-* A user profile page.
+* A Login page => to access add: /login
+* A users page => to access add: /users
+* A user profile page => to access add: /users/any id e.g. 123
+* Add new user page => to access add: /users/new
+* Add new product page => to access add: /productss/new
 * A dynamic logo button.
 * A dynamic dark/light mode button.
 * A dynamic add new user button.
 * A dynamic upload image button.
 * A dynamic delete user button.
-* Used react-routing.
 
 ## Screenshot
 Home Page - Light Mode
@@ -45,11 +47,11 @@ Home Page - Light Mode
 Home Page - Dark Mode
 ![project screenshot](home-dark-mode.png)
 
-Video Page - Dark Mode
-![project screenshot](video-dark-mode.png)
+Users Page - Light Mode
+![project screenshot](users-light-mode.png)
 
-Sign In Page - Dark Mode
-![project screenshot](signin-dark-mode.png)
+Add New Product Page - Light Mode
+![project screenshot](add-new-product-light-mode.png)
 
 ## Installation and Setup Instructions
 
@@ -89,6 +91,10 @@ To Visit App:
 
 * The products button present in the sidebar will take you to a page with a products list, this could be confirmed by checking the URL.
 
+**URL Routing**
+
+* To access all website pages look URL extensions in features.
+
 **Dynamic Add New User Button**
 
 * The add new user button present above the users list will allow you to add new users.
@@ -99,7 +105,7 @@ To Visit App:
 
 **Single User Profile**
 
-* By adding any ID to the URL from the users page (e.g. /users/1234) you will be directed to a single user profile.
+* By adding any ID to the URL from the users page (e.g. /users/123) you will be directed to a single user profile.
 
 ## Project Status
 Project is: Completed
