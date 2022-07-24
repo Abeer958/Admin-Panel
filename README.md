@@ -25,6 +25,9 @@ To practice web design and routing.
 * CSS
 * JavaScript
 * Material UI
+* React Hooks
+* Rechart
+* Webkit
 
 ## Features
 * React-routing.
