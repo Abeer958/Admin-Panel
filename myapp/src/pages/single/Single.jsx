@@ -4,6 +4,8 @@ import Navbar from "../../components/navbar/Navbar";
 import Chart from "../../components/chart/Chart";
 import List from "../../components/table/Table";
 
+// To access Single in the deployed website use ID: 123 in the URL (e.g. https://abeers-react-admin-panel.netlify.app/users/123)
+
 const Single = () => {
   return (
     <div className="single">
