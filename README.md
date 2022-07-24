@@ -48,7 +48,7 @@ Home Page - Dark Mode
 ![project screenshot](home-dark-mode.png)
 
 Users Page - Light Mode
-![project screenshot](users-light-mode.png)
+![project screenshot](users-page-light-mode.png)
 
 Add New Product Page - Light Mode
 ![project screenshot](add-new-product-light-mode.png)
