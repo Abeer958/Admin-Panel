@@ -45,9 +45,9 @@ To practice web design and routing.
 
 ## Screenshot
 Home Page - Light Mode
-![project screenshot](home-light-mode.png)
+![project screenshot](home-light.png)
 Home Page - Dark Mode
-![project screenshot](home-dark-mode.png)
+![project screenshot](home-dark.png)
 
 Users Page - Light Mode
 ![project screenshot](users-page-light-mode.png)
