@@ -37,6 +37,7 @@ To practice web design and routing.
 * A user profile page => to access add: /users/any id e.g. 123
 * Add new user page => to access add: /users/new
 * Add new product page => to access add: /productss/new
+* Ability to sort information in Users, and Products tables => hover mouse on column titles.
 * A dynamic logo button.
 * A dynamic dark/light mode button.
 * A dynamic add new user button.
@@ -100,6 +101,10 @@ To Visit App:
 **Dynamic Add New User Button**
 
 * The add new user button present above the users list will allow you to add new users.
+
+**Filter Information in Users/Products Page**
+
+* The top row has a dropdown menu that will allow you to filter information for accessibility.
 
 **Dynamic Delete User Button**
 
