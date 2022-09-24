@@ -21,6 +21,7 @@ To practice web design and routing.
 
 ## Technologies Used
 * ReactJS
+* React Router
 * HTML
 * CSS
 * JavaScript
