@@ -123,8 +123,8 @@ Project is: Completed
 * Add authentication page.
 
 ## Acknowledgements
-* Many thanks to LamaDev.
+Many thanks to CodeHQ
 
 ## Contact
-Created by Abeer Ahmed [LinkedIn profile](https://www.linkedin.com/in/abeerdev/) - feel free to contact me.
+Created by Abeer Ahmed [LinkedIn profile](https://www.linkedin.com/in/abeerwebdev/) - feel free to contact me.
 
